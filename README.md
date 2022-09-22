@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrisco633
 - 👀 I’m interested in ... games, art and music
-- 🌱 I’m currently learning ... JavaScript and CSS
+- 🌱 I’m currently learning ... JS, Python, C, CSS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
